@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/urbansuds/static/css/main.94ebfc17.css",
-    "main.js": "/urbansuds/static/js/main.b274b4ee.js",
+    "main.css": "/urbansuds/static/css/main.47a3c7fa.css",
+    "main.js": "/urbansuds/static/js/main.441f6377.js",
     "index.html": "/urbansuds/index.html",
-    "main.94ebfc17.css.map": "/urbansuds/static/css/main.94ebfc17.css.map",
-    "main.b274b4ee.js.map": "/urbansuds/static/js/main.b274b4ee.js.map"
+    "main.47a3c7fa.css.map": "/urbansuds/static/css/main.47a3c7fa.css.map",
+    "main.441f6377.js.map": "/urbansuds/static/js/main.441f6377.js.map"
   },
   "entrypoints": [
-    "static/css/main.94ebfc17.css",
-    "static/js/main.b274b4ee.js"
+    "static/css/main.47a3c7fa.css",
+    "static/js/main.441f6377.js"
   ]
 }
