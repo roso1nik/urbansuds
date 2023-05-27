@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/urbansuds/static/css/main.94ebfc17.css",
+    "main.js": "/urbansuds/static/js/main.b274b4ee.js",
+    "index.html": "/urbansuds/index.html",
+    "main.94ebfc17.css.map": "/urbansuds/static/css/main.94ebfc17.css.map",
+    "main.b274b4ee.js.map": "/urbansuds/static/js/main.b274b4ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ebfc17.css",
+    "static/js/main.b274b4ee.js"
+  ]
+}
